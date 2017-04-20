@@ -1,0 +1,17 @@
+#header {
+    background-color: red ;
+    border: 0px ;
+}
+
+#headerText {
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    font-size: 50px;
+    color: black;
+}
+
+#page {
+    background-color: darkblue;
+}
+
+  
